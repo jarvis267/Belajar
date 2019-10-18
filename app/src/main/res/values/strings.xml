@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Belajar</string>
+    <string name="judul">Selamat Datang di Aplikasi Belajar</string>
+    <string name="subjudul">silahkan pilih salah satu dari kelima materi dibawah</string>
+    <string name="subjudul1">Perintah untuk membangun objek</string>
+    <string name="subjudul11">berisi objek dan method. contohnya, class "binatang" berisi objek kuda, dan ikan. \ \n Pada objek kuda, misalnya ada method bernama lari() dan di objek ikan ada method berenang()</string>
+    <string name="contoh1">public class {binatang \ \n String nama; \ \n String warna \ \n } </string>
+    <string name="subjudul2">Melakukan Operasi Aritmatika</string>
+    <string name="subjudul22">dapat melakukan operasi tambah, kurang, perkalian, pembagian, modul, increment, dan decrement</string>
+    <string name="contoh2">a+b \ \n b-c \ \n a/b</string>
+    <string name="subjudul3">Membandingkan satu variabel dengan variabel lain</string>
+    <string name="subjudul33">Perbandingan yang dapat dilakukan adalah sama dengan, tidak sama dengan, lebih besar dan lebih kecil</string>
+    <string name="contoh3">a==b \ \n b!=c \ \n a>b \ \n b=>a</string>
+    <string name="subjudul4">Kegiatan yang dilakukan oleh suatu objek</string>
+    <string name="subjudul44">Operasi yang dilakukan adalah objek, biasanya dilakukan didalam kelas</string>
+    <string name="contoh4">hitung() \ \n add() </string>
+    <string name="subjudul5">Inisialisasi Objek</string>
+    <string name="subjudul55">menginisialisasi objek didalam kelas</string>
+    <string name="contoh5">class ClassName{ \ \n ClassName(){ \ \n } \ \n }</string>
+    <string name="tombol1">1. class</string>
+    <string name="tombol2">2. operators</string>
+    <string name="tombol3">3. relation</string>
+    <string name="tombol4">4. methods</string>
+    <string name="tombol5">5. contstructor</string>
+    <string name="back">back</string>
+
+</resources>
